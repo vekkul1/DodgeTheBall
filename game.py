@@ -1,5 +1,7 @@
 print("""
-== Ball Dodging Game =='
+== Ball Dodging Game ==
+Python version:
+3.8.6
 AUTHOR:
 Veeti Halla-aho
 last update 
