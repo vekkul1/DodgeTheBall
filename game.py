@@ -41,7 +41,7 @@ Classes
 
 #creating a ball class
 class Ball:
-    def __init__(self, posx, posy, colour = (255,255,255)):
+    def __init__(self, posx, posy, colour = (0, 255, 0)):
         #balls position
         self.position = [posx, posy]
         #balls speed & speed magnitude
